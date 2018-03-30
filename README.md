@@ -12,3 +12,8 @@ Currently I'm in progress of converting all the examples to the latest (r88 as o
 
 https://github.com/josdirksen/learning-threejs-third/tree/inventorize
 
+
+
+着色器：http://glslsandbox.com
+
+vertexShader(顶点): https://www.shadertoy.com/view/4dXGR4
